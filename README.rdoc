@@ -3,3 +3,5 @@
 Our Project 2 App
 
 Members: Jee, Lo, Skyler, Colt
+
+The Smallest Social Network
